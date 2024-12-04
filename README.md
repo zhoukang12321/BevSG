@@ -23,7 +23,7 @@ semantically similar objects and make plans in this graph. (ii) we propose BEV-B
 ## Installation
 The implementation of BEV Detection is built on [MMDetection3D v0.17.1](https://github.com/open-mmlab/mmdetection3d). Please follow [BEVFormer](https://github.com/fundamentalvision/BEVFormer) for installation. 
 
-The implementation of VLN is built on the latest version of [Matterport3D simulators](https://github.com/peteanderson80/Matterport3DSimulator):
+The implementation of VN is built on the latest version of [Matterport3D simulators](https://github.com/peteanderson80/Matterport3DSimulator):
 ```
 export PYTHONPATH=Matterport3DSimulator/build:$PYTHONPATH
 ```
