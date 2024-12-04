@@ -24,5 +24,12 @@ For environment setup and dataset preparation, please follow:
 For evaluation, please follow:
 * [Evaluation](./docs/run.md)
 
+## Training and Evaluating:
+
+We provide scripts for quick training and evaluation. The parameters can be found in [sh_train_mp3d.sh](sh_train_mp3d.sh) and [sh_eval.sh](sh_eval.sh), You can modify these parameters to customize them according to your specific requirements.
+```
+sh sh_train_mp3d.sh # training 
+sh sh_eval.sh # evaluating
+```
 
 
